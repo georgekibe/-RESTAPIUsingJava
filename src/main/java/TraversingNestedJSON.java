@@ -46,7 +46,7 @@ public class TraversingNestedJSON {
             }
         }
 
-//        6. Verify if Sum of all Course prices matches with Purchase Amount
+       // 6. Verify if Sum of all Course prices matches with Purchase Amount
         int totalPrice = 0;
         for (int m = 0; m < count; m++) {
 
